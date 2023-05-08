@@ -18,5 +18,11 @@ In the interest of fostering an open and welcoming environment, we as contributo
 ## Not sure how to get started?
 
 - [Chat in Discord #contributing](https://discord.gg/storybook)
-- [Browse "good first issues" to fix](https://github.com/storybookjs/storybook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) [(Check other labels)](https://github.com/storybookjs/storybook/labels)
+- [Browse "good first issues" to fix](https://github.com/storybookjs/storybook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    - Popular labels and usage:
+        - [bug](https://github.com/storybookjs/storybook/labels/bug): Use this label to report bugs
+        - [api:docs](https://github.com/storybookjs/storybook/labels/addon%3A%20docss): Use this label to modify API documentations
+        - [feature request](https://github.com/storybookjs/storybook/labels/feature%20request): Use this label to request feature
+        - [Find more labels](https://github.com/storybookjs/storybook/labels)
+ 
 - [Submit a bug report or feature request](https://github.com/storybookjs/storybook/issues)
