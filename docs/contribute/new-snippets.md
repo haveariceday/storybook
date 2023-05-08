@@ -126,3 +126,4 @@ Go through the documentation and check your work.
 ## Submit your contribution
 
 Finally, commit, push and open a pull request in the Storybook monorepo. Add a clear description of the work you've done, and one of the maintainers will guide you through the merge process.
+To write a good commit message, the title shall be capitalized, and the body description should be less than 80 characters length. Make sure that the content of the message to be direct and avoid filler words.
